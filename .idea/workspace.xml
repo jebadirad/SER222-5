@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15aa37f6-e430-4db5-8b62-3a430f59666c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SER222-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsjf/DoubleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsjf/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsjf/DoubleOrderedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DoubleListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DoubleNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DoubleOrderedListTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SER222_5$All_in_SER222_5.ic" NAME="All in SER222-5 Coverage Results" MODIFIED="1532328192549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SER222_5$DoubleListTest.ic" NAME="DoubleListTest Coverage Results" MODIFIED="1532325697032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SER222_5$DoubleNodeTest.ic" NAME="DoubleNodeTest Coverage Results" MODIFIED="1532323236549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.47378516">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/jsjf/Driver.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2339">
+                  <caret line="212" column="42" lean-forward="true" selection-start-line="212" selection-start-column="42" selection-end-line="212" selection-end-column="42" />
+                  <folding>
+                    <element signature="e#1128#1137#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DoubleOrderedList.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleOrderedList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="196">
+                  <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DoubleList.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="245" column="16" lean-forward="true" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#5615#5616#0" expanded="true" />
+                    <element signature="e#5648#5649#0" expanded="true" />
+                    <element signature="e#5839#5840#0" expanded="true" />
+                    <element signature="e#5867#5868#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DoubleNode.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="162">
+                  <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+                  <folding>
+                    <element signature="e#490#491#0" expanded="true" />
+                    <element signature="e#517#518#0" expanded="true" />
+                    <element signature="e#553#554#0" expanded="true" />
+                    <element signature="e#580#581#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="DoubleListTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/test/DoubleListTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="214">
+                  <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#193#202#0" expanded="true" />
+                    <element signature="e#779#788#0" expanded="true" />
+                    <element signature="e#1077#1086#0" expanded="true" />
+                    <element signature="e#2054#2065#0" expanded="true" />
+                    <element signature="e#2228#2237#0" expanded="true" />
+                    <element signature="e#2692#2693#0" expanded="true" />
+                    <element signature="e#2711#2712#0" expanded="true" />
+                    <element signature="e#3128#3137#0" expanded="true" />
+                    <element signature="e#3576#3585#0" expanded="true" />
+                    <element signature="e#3642#3651#0" expanded="true" />
+                    <element signature="e#4246#4255#0" expanded="true" />
+                    <element signature="e#5870#5879#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DoubleOrderedListTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/DoubleOrderedListTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="27">
+                  <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#278#287#0" expanded="true" />
+                    <element signature="e#616#625#0" expanded="true" />
+                    <element signature="e#966#975#0" expanded="true" />
+                    <element signature="e#1297#1306#0" expanded="true" />
+                    <element signature="e#1652#1661#0" expanded="true" />
+                    <element signature="e#302#313#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/src/DoubleList.java" />
+        <option value="$PROJECT_DIR$/src/DoubleOrderedList.java" />
+        <option value="$PROJECT_DIR$/src/LinkedOrderedList.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/ElementNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/ListADT.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/LinkedOrderedList.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/OrderedListADT.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/test/DoubleNodeTest.java" />
+        <option value="$PROJECT_DIR$/test/DoubleListTest.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/DoubleList.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/Driver.java" />
+        <option value="$PROJECT_DIR$/test/DoubleOrderedListTest.java" />
+        <option value="$PROJECT_DIR$/src/jsjf/DoubleOrderedList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SER222-5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SER222-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SER222-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsjf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SER222-5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsjf" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SER222-5" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SER222-5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jsjf" />
+      <recent name="jsjf.exceptions" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in SER222-5">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jsjf.Driver" />
+      <module name="SER222-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsjf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="All in SER222-5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SER222-5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DoubleListTest.toStringEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SER222-5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoubleListTest" />
+      <option name="METHOD_NAME" value="toStringEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DoubleListTest.toStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SER222-5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoubleListTest" />
+      <option name="METHOD_NAME" value="toStringTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DoubleOrderedListTest.addSize2ToHead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SER222-5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoubleOrderedListTest" />
+      <option name="METHOD_NAME" value="addSize2ToHead" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in SER222-5" />
+      <item itemvalue="JUnit.DoubleListTest.toStringTest" />
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="JUnit.DoubleListTest.toStringEmptyTest" />
+      <item itemvalue="JUnit.DoubleOrderedListTest.addSize2ToHead" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in SER222-5" />
+        <item itemvalue="JUnit.DoubleOrderedListTest.addSize2ToHead" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.DoubleListTest.toStringEmptyTest" />
+        <item itemvalue="JUnit.DoubleListTest.toStringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15aa37f6-e430-4db5-8b62-3a430f59666c" name="Default" comment="" />
+      <created>1532312099717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532312099717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 25m 33s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 25m 37s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 25m 40s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleListTest_toStringEmptyTest - 2018.07.22 at 23h 32m 52s.xml">
+      <configuration name="DoubleListTest.toStringEmptyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 35m 22s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 39m 53s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 39m 57s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleOrderedListTest_addSize2ToHead - 2018.07.22 at 23h 41m 11s.xml">
+      <configuration name="DoubleOrderedListTest.addSize2ToHead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleOrderedListTest_addSize2ToHead - 2018.07.22 at 23h 41m 25s.xml">
+      <configuration name="DoubleOrderedListTest.addSize2ToHead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SER222-5 - 2018.07.22 at 23h 41m 29s.xml">
+      <configuration name="All in SER222-5" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Messages" weight="0.32947367" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" visible="true" weight="0.47157896" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="right" auto_hide="true" x="1948" y="51" width="633" height="950" id="Coverage" side_tool="true" type="FLOATING" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.18541667" />
+      <window_info anchor="bottom" id="Find" weight="0.32947367" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" weight="0.36842105" />
+      <window_info id="Favorites" side_tool="true" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DoubleListTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DoubleListTest.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jsjf/Driver.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/jsjf/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="340" column="29" lean-forward="true" selection-start-line="340" selection-start-column="29" selection-end-line="340" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/LinkedOrderedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SER222-4/src/EbadiradDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/exceptions/NonComparableElementException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/exceptions/ElementNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/ListADT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/exceptions/EmptyCollectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DoubleNodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#134#143#0" expanded="true" />
+            <element signature="e#294#303#0" expanded="true" />
+            <element signature="e#584#593#0" expanded="true" />
+            <element signature="e#882#891#0" expanded="true" />
+            <element signature="e#1101#1110#0" expanded="true" />
+            <element signature="e#1415#1424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/OrderedListADT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SER222-4/tests/EbadiradDequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DoubleListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#202#0" expanded="true" />
+            <element signature="e#779#788#0" expanded="true" />
+            <element signature="e#1077#1086#0" expanded="true" />
+            <element signature="e#2054#2065#0" expanded="true" />
+            <element signature="e#2228#2237#0" expanded="true" />
+            <element signature="e#2692#2693#0" expanded="true" />
+            <element signature="e#2711#2712#0" expanded="true" />
+            <element signature="e#3128#3137#0" expanded="true" />
+            <element signature="e#3576#3585#0" expanded="true" />
+            <element signature="e#3642#3651#0" expanded="true" />
+            <element signature="e#4246#4255#0" expanded="true" />
+            <element signature="e#5870#5879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2339">
+          <caret line="212" column="42" lean-forward="true" selection-start-line="212" selection-start-column="42" selection-end-line="212" selection-end-column="42" />
+          <folding>
+            <element signature="e#1128#1137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DoubleOrderedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="e#278#287#0" expanded="true" />
+            <element signature="e#616#625#0" expanded="true" />
+            <element signature="e#966#975#0" expanded="true" />
+            <element signature="e#1297#1306#0" expanded="true" />
+            <element signature="e#1652#1661#0" expanded="true" />
+            <element signature="e#302#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="245" column="16" lean-forward="true" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5615#5616#0" expanded="true" />
+            <element signature="e#5648#5649#0" expanded="true" />
+            <element signature="e#5839#5840#0" expanded="true" />
+            <element signature="e#5867#5868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsjf/DoubleOrderedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SER222-5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
